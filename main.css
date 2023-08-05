@@ -89,7 +89,7 @@ table td img {
     padding: 8px;
     font-weight: bold;
     color: #fff;
-    background-color: black;
+    background-color: rgb(34, 115, 41);
     border-radius: 3px;
 }
 
@@ -99,6 +99,6 @@ table td img {
 }
 
 .reprovado {
-    background-color: #009432;
+    background-color: #e3440a;
     color: #fff;
 }
